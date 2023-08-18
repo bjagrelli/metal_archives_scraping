@@ -1,5 +1,3 @@
 .venv
-chromedriver-win64/*
 *.ipynb
-chromedriver-win64/*
 metal_db
